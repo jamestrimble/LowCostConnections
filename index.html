@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!-- Map visualisation based on http://bl.ocks.org/mbostock/899711 -->
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <link href="datepicker/css/datepicker.css" rel="stylesheet">
+  </head>
+  <body>
+
+
+      <div class="row">
+        <div class="col-lg-9">
+          <div id="map"></div>
+        </div>
+        <div class="col-lg-3">
+          <h1>Low-Cost Connections</h1>
+          
+          <div id="origin-div">
+            <h4>1. Click departure airport</h4>
+            <p id="origin-p">Departing from <span id="origin-span"></span></p>
+          </div>
+          <div id="destination-div">
+            <h4>2. Click destination airport</h4>
+            <p id="destination-p">Destination: <span id="destination-span"></span></p>
+            <div id="direct-flights">
+                <p>Direct flights:</p>
+                <div id="direct-flight-opts"></div>
+            </div>
+
+          </div>
+          <div class="alert alert-warning" id="no-flights-found">
+              No direct flights or flights with one connection were found.
+          </div>
+          <div id="connection-div">
+            <h4>3. Click connecting airport (a grey dot)</h4>
+            <p id="connection-p">Connecting airport: <span id="connection-span"></span></p>
+            <div class="connection-results">
+                <p>Airlines for first leg (<span class='leg-origin-span'></span> to <span class='leg-connection-span'></span>):</p>
+                <div id="flight-1-opts"></div>
+            </div>
+            <div class="connection-results">
+                <p>Airlines for second leg (<span class='leg-connection-span'></span> to <span class='leg-destination-span'>:</span>)</p>
+                <div id="flight-2-opts"></div>
+            </div>
+          </div>
+          <p><a class="btn btn-primary" href="" role="button">Reset</a></p>
+       </div>
+     </div>
+
+  
+
+  </body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="lowcost.js"></script>
+
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="style.css">
+
+
+</html>

@@ -1,0 +1,5 @@
+http://www.ryanair.com/en/booking/feed
+
+http://www.easyjet.com/EN/linkedAirportsJSON?20100310
+
+http://www.partow.net/miscellaneous/airportdatabase/

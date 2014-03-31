@@ -1,0 +1,131 @@
+html, body, #map, .row {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: steelblue;
+  font-size: 42px;
+}
+
+.col-lg-9 {
+  height: 100%;
+  float: left;
+  width: 75%;
+  padding-left:0;
+}
+
+.col-lg-3 {
+  height: 100%;
+  float: left;
+  width: 21%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.airports, .airports svg {
+  position: absolute;
+}
+
+
+.airports {
+  width: 100%;
+  height: 1000px;
+}
+
+.airports svg {
+  width: 200px;
+  height: 20px;
+  font: 10px sans-serif;
+  pointer-events:none;
+}
+
+.airports circle {
+  fill: steelblue;
+  stroke: #white;
+  stroke-width: 1px;
+  pointer-events: all;
+}
+
+.airports .muted {
+  opacity: 0.3;
+}
+
+.airports circle:hover {
+  stroke-width: 2px;
+}
+
+.airports circle.origin {
+  fill: yellow;
+  stroke: black;
+  opacity: 1;
+}
+.airports circle.destination {
+  fill: pink;
+  stroke: black;
+  opacity: 1;
+}
+.airports circle.connection {
+  fill: lightgray;
+  stroke: black;
+  opacity: 1;
+}
+
+.airports svg.show-text text {
+  visibility:visible;
+}
+.airports svg text.show-text {
+  visibility:visible;
+}
+.airports svg:hover text {
+  fill: black;
+}
+
+.airports text {
+  font-size: 12px;
+  font-weight: bold;
+  pointer-events: none;
+  visibility: hidden;
+  fill: #444;
+}
+.airports text.show-text {
+  visibility: visible;
+}
+
+#origin-p, #destination-p, #connection-p {
+  visibility: hidden;
+}
+
+#destination-div {
+  visibility: hidden;
+}
+#direct-flights {
+  visibility: hidden;
+}
+#no-flights-found {
+  display: none;
+}
+#connection-div {
+  visibility: hidden;
+}
+#origin-span {
+  padding: 1px 5px 1px 5px;
+  border-radius: 2px;
+  background: yellow;
+}
+#destination-span {
+  padding: 1px 5px 1px 5px;
+  border-radius: 2px;
+  background: pink;
+}
+#connection-span {
+  padding: 1px 5px 1px 5px;
+  border-radius: 2px;
+  background: lightgray;
+}
+
+.connection-results {
+  visibility: hidden;
+}
