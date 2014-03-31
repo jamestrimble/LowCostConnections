@@ -48,7 +48,7 @@ var map = new google.maps.Map(d3.select("#map").node(), {
 zIndex = 0;
 
 // Load the airport data. When the data comes back, create an overlay.
-d3.json("output/airports.json", function(data) {
+d3.json("airports.json", function(data) {
   var routePlanner = new RoutePlanner(data);
   var overlay = new google.maps.OverlayView();
 
@@ -158,7 +158,7 @@ RoutePlanner.prototype.destinationClick = function(d, circle) {
                 .attr("target", "blank")
                 .text(r.airline)            
         }
-        console.log(r.code);
+
         routePlanner.data[r.code].routes.forEach(function(r2) {
             if (r2.code==routePlanner.destination) {
                 nFlightsFound++;

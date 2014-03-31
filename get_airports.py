@@ -61,5 +61,5 @@ for a in airports_with_flights:
                                           if not r["code"] in codes_of_missing_airports]
 
 
-with open('output/airports.json', 'w') as f:            
+with open('web/airports.json', 'w') as f:            
     json.dump(airports_with_flights, f, sort_keys=True, indent=4, separators=(',', ': '))
