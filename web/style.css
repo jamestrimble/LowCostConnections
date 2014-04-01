@@ -7,7 +7,7 @@ html, body, #map, .row {
 
 h1 {
   color: steelblue;
-  font-size: 42px;
+  font-size: 36px;
 }
 
 .col-lg-9 {
@@ -20,9 +20,9 @@ h1 {
 .col-lg-3 {
   height: 100%;
   float: left;
-  width: 21%;
-  padding-left: 2%;
-  padding-right: 2%;
+  width: 23%;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 
 .airports, .airports svg {
