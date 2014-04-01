@@ -14,3 +14,7 @@ sed -i "" 's/MANCHESTER TERMINAL 1/MANCHESTER TERMINAL 1 MAN/g' temp/jet2_to_jso
 sed -i "" 's/NEWCASTLE/NEWCASTLE NCL/g' temp/jet2_to_json.js
 cat write_jet2_json.js >> temp/jet2_to_json.js
 node temp/jet2_to_json.js
+
+grep 'wizzAutocomplete.MARKETINFO' downloads/wizz.html > temp/wizz.json
+sed -i "" "s/^.*wizzAutocomplete.MARKETINFO.=..\([^']*\).*$/\1/g" temp/wizz.json
+

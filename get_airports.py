@@ -1,35 +1,40 @@
 import json
+import csv
 
 airports = {}
 codes_of_missing_airports = []
 
 with open("downloads/airports.dat") as f:
-    for line in f:
-        tokens = line.split(",")
-        airport_code = tokens[4][1:-1] # remove quotes
+    reader = csv.reader(f, delimiter=',')
+    for line in reader:
+        airport_code = line[4]
         airports[airport_code] = {
-                               "name": tokens[1][1:-1],
-                               "city": tokens[2][1:-1],
-                               "country": tokens[3][1:-1],
-                               "long_lat": [tokens[7], tokens[6]]
+                               "name": line[1],
+                               "city": line[2],
+                               "country": line[3],
+                               "long_lat": [line[7], line[6]]
                               }
 
 def add_route(origin_code, dest_code, airline):
-    if airports[origin_code].has_key("routes"):
-        airports[origin_code]["routes"].append({"code":dest_code, "airline":airline})
+    if airports.has_key(origin_code) and airports.has_key(dest_code):
+        if airports[origin_code].has_key("routes"):
+            airports[origin_code]["routes"].append({"code":dest_code, "airline":airline})
+        else:
+            airports[origin_code]["routes"] = [{"code":dest_code, "airline":airline}]
     else:
-        airports[origin_code]["routes"] = [{"code":dest_code, "airline":airline}]
+        print "Warning: flight from %s to %s has been excluded." % (origin_code, dest_code)
+        if not airports.has_key(origin_code):
+            codes_of_missing_airports.append(origin_code)
+        if not airports.has_key(dest_code):
+            codes_of_missing_airports.append(dest_code)
 
 with open("downloads/ryanair.json") as f:
     ryan = json.load(f)
     for country, airports_in_country in ryan["airports"].items():
         for airport_code, airport_name in airports_in_country.items():
-            if airport_code in airports:
-                for dest_code in ryan["routes"][airport_code]:
-                    add_route(airport_code, dest_code, "Ryanair")
-            else:
-                print "Warning: %s has been excluded" % airport_code
-                codes_of_missing_airports.append(airport_code)
+            for dest_code in ryan["routes"][airport_code]:
+                add_route(airport_code, dest_code, "Ryanair")
+               
 
 with open("temp/easyjet.json") as f:
     easy = json.load(f)["ac_la"]
@@ -51,6 +56,13 @@ with open("temp/jet2.json") as f:
         for destination in destinations:
             if len(destination[0]) <= 2:
                 add_route(origin_code, destination[1][-3:], "Jet2")
+    
+with open("temp/wizz.json") as f:
+    wizz = json.load(f)
+    for airport_data in wizz:
+        origin_code = airport_data["DS"]
+        for destination in airport_data["ASL"]:
+            add_route(origin_code, destination["SC"], "Wizz")
     
         
 airports_with_flights = {a:airports[a] for a in airports if airports[a].has_key("routes")}

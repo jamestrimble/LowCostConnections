@@ -235,6 +235,25 @@
             }
         ]
     },
+    "AES": {
+        "city": "Alesund",
+        "country": "Norway",
+        "long_lat": [
+            "6.110164",
+            "62.560372"
+        ],
+        "name": "Vigra",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            }
+        ]
+    },
     "AGA": {
         "city": "Agadir",
         "country": "Morocco",
@@ -582,6 +601,14 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -713,6 +740,10 @@
             {
                 "airline": "easyJet",
                 "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -1019,6 +1050,14 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -1179,6 +1218,25 @@
             {
                 "airline": "easyJet",
                 "code": "GVA"
+            }
+        ]
+    },
+    "ARW": {
+        "city": "Arad",
+        "country": "Romania",
+        "long_lat": [
+            "21.262022",
+            "46.17655"
+        ],
+        "name": "Arad",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
             }
         ]
     },
@@ -1516,6 +1574,58 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -1618,6 +1728,54 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FMM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GSE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MLH"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -1819,6 +1977,22 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
             }
         ]
     },
@@ -2126,6 +2300,74 @@
             {
                 "airline": "Ryanair",
                 "code": "ATH"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ARW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -2706,6 +2948,26 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
             }
         ]
     },
@@ -2896,6 +3158,37 @@
             {
                 "airline": "easyJet",
                 "code": "GVA"
+            }
+        ]
+    },
+    "BOJ": {
+        "city": "Bourgas",
+        "country": "Bulgaria",
+        "long_lat": [
+            "27.515236",
+            "42.569583"
+        ],
+        "name": "Burgas",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -3126,6 +3419,18 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
             }
         ]
     },
@@ -3141,6 +3446,14 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
             }
         ]
     },
@@ -3766,6 +4079,10 @@
             {
                 "airline": "easyJet",
                 "code": "VCE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
             }
         ]
     },
@@ -3952,6 +4269,154 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "AGP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ALC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BOJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BRI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CFU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CTA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DWC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GSE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GYD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HER"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HHN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MLA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NAP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PMI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RHO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VKO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ZTH"
             }
         ]
     },
@@ -4159,6 +4624,62 @@
             {
                 "airline": "Ryanair",
                 "code": "SNN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WRO"
             }
         ]
     },
@@ -4771,6 +5292,18 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -4810,6 +5343,22 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
             }
         ]
     },
@@ -5164,6 +5713,133 @@
             {
                 "airline": "Ryanair",
                 "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KIV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            }
+        ]
+    },
+    "CLJ": {
+        "city": "Cluj-napoca",
+        "country": "Romania",
+        "long_lat": [
+            "23.686167",
+            "46.785167"
+        ],
+        "name": "Cluj Napoca",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BSL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FMM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HHN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PMI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VLC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ZAZ"
             }
         ]
     },
@@ -5281,6 +5957,45 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            }
+        ]
+    },
+    "CRA": {
+        "city": "Craiova",
+        "country": "Romania",
+        "long_lat": [
+            "23.888611",
+            "44.318139"
+        ],
+        "name": "Craiova",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
             }
         ]
     },
@@ -5616,6 +6331,38 @@
             {
                 "airline": "Ryanair",
                 "code": "WMI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LJU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -5699,6 +6446,14 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -5722,6 +6477,10 @@
             {
                 "airline": "Ryanair",
                 "code": "TPS"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -5793,6 +6552,25 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            }
+        ]
+    },
+    "DEB": {
+        "city": "Debrecen",
+        "country": "Hungary",
+        "long_lat": [
+            "21.615333",
+            "47.488917"
+        ],
+        "name": "Debrecen",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
             }
         ]
     },
@@ -5916,6 +6694,53 @@
             }
         ]
     },
+    "DOK": {
+        "city": "Donetsk",
+        "country": "Ukraine",
+        "long_lat": [
+            "37.739722",
+            "48.073611"
+        ],
+        "name": "Donetsk Intl",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FMM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            }
+        ]
+    },
     "DRS": {
         "city": "Dresden",
         "country": "Germany",
@@ -5928,6 +6753,53 @@
             {
                 "airline": "easyJet",
                 "code": "BSL"
+            }
+        ]
+    },
+    "DSA": {
+        "city": "Doncaster, Sheffield",
+        "country": "United Kingdom",
+        "long_lat": [
+            "-1.004444",
+            "53.474722"
+        ],
+        "name": "Robin Hood Doncaster Sheffield Airport",
+        "routes": [
+            {
+                "airline": "Ryanair",
+                "code": "TFS"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WRO"
             }
         ]
     },
@@ -5979,6 +6851,74 @@
             {
                 "airline": "easyJet",
                 "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WRO"
             }
         ]
     },
@@ -6361,6 +7301,33 @@
             {
                 "airline": "Jet2",
                 "code": "LBA"
+            }
+        ]
+    },
+    "DWC": {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "long_lat": [
+            "55.103174",
+            "24.55056"
+        ],
+        "name": "Dubai Al Maktoum",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
             }
         ]
     },
@@ -6956,6 +7923,66 @@
             {
                 "airline": "Ryanair",
                 "code": "MJV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BRQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DEB"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WRO"
             }
         ]
     },
@@ -7691,6 +8718,58 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -7916,6 +8995,30 @@
             {
                 "airline": "Ryanair",
                 "code": "SNN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
             }
         ]
     },
@@ -8230,6 +9333,110 @@
             {
                 "airline": "Ryanair",
                 "code": "WRO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "AES"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CGN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GLA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GSE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HAU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HEL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KRS"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LBC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LPL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SVG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TKU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -8416,6 +9623,14 @@
             {
                 "airline": "Jet2",
                 "code": "ZTH"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -8471,6 +9686,14 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -8740,6 +9963,18 @@
             {
                 "airline": "Ryanair",
                 "code": "GSE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -8834,6 +10069,26 @@
             {
                 "airline": "Ryanair",
                 "code": "GRO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -9109,6 +10364,25 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            }
+        ]
+    },
+    "GYD": {
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "long_lat": [
+            "50.046667",
+            "40.4675"
+        ],
+        "name": "Heydar Aliyev",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BUD"
             }
         ]
     },
@@ -9227,6 +10501,25 @@
             {
                 "airline": "Ryanair",
                 "code": "PSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            }
+        ]
+    },
+    "HEL": {
+        "city": "Helsinki",
+        "country": "Finland",
+        "long_lat": [
+            "24.963333",
+            "60.317222"
+        ],
+        "name": "Helsinki Vantaa",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "GDN"
             }
         ]
     },
@@ -9298,6 +10591,14 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -9505,6 +10806,30 @@
             {
                 "airline": "Ryanair",
                 "code": "LIS"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
             }
         ]
     },
@@ -9524,6 +10849,25 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            }
+        ]
+    },
+    "HRK": {
+        "city": "Kharkov",
+        "country": "Ukraine",
+        "long_lat": [
+            "36.289986",
+            "49.924786"
+        ],
+        "name": "Osnova International Airport",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -9755,6 +11099,89 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            }
+        ]
+    },
+    "IEV": {
+        "city": "Kiev",
+        "country": "Ukraine",
+        "long_lat": [
+            "30.449697",
+            "50.401694"
+        ],
+        "name": "Zhuliany Intl",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CGN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DWC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FMM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GRO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LBC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NAP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VLC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
             }
         ]
     },
@@ -10101,6 +11528,25 @@
             }
         ]
     },
+    "KIV": {
+        "city": "Chisinau",
+        "country": "Moldova",
+        "long_lat": [
+            "28.930978",
+            "46.927744"
+        ],
+        "name": "Chisinau Intl",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
+            }
+        ]
+    },
     "KLX": {
         "city": "Kalamata",
         "country": "Greece",
@@ -10303,6 +11749,36 @@
             }
         ]
     },
+    "KRS": {
+        "city": "Kristiansand",
+        "country": "Norway",
+        "long_lat": [
+            "8.085369",
+            "58.204214"
+        ],
+        "name": "Kjevik",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            }
+        ]
+    },
+    "KSC": {
+        "city": "Kosice",
+        "country": "Slovakia",
+        "long_lat": [
+            "21.241112",
+            "48.663055"
+        ],
+        "name": "Kosice",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            }
+        ]
+    },
     "KTW": {
         "city": "Katowice",
         "country": "Poland",
@@ -10339,6 +11815,106 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BOJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CGN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GNB"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HHN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LPL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NAP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SVG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -10422,6 +11998,49 @@
             {
                 "airline": "Ryanair",
                 "code": "NOC"
+            }
+        ]
+    },
+    "KUT": {
+        "city": "Kutaisi",
+        "country": "Georgia",
+        "long_lat": [
+            "42.482583",
+            "42.176653"
+        ],
+        "name": "Kopitnari",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HRK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -10752,6 +12371,14 @@
             {
                 "airline": "Ryanair",
                 "code": "PMI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
             }
         ]
     },
@@ -10791,6 +12418,38 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
             }
         ]
     },
@@ -11672,6 +13331,14 @@
             {
                 "airline": "easyJet",
                 "code": "STN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
             }
         ]
     },
@@ -12121,6 +13788,18 @@
             {
                 "airline": "easyJet",
                 "code": "SZG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -12442,6 +14121,118 @@
             {
                 "airline": "easyJet",
                 "code": "ZRH"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BOJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BRQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DEB"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KSC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LJU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LUZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SBZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SPU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VAR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WRO"
             }
         ]
     },
@@ -12484,6 +14275,65 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
+            }
+        ]
+    },
+    "LWO": {
+        "city": "Lvov",
+        "country": "Ukraine",
+        "long_lat": [
+            "23.956111",
+            "49.8125"
+        ],
+        "name": "Lviv Intl",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GRO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NAP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VLC"
             }
         ]
     },
@@ -12814,6 +14664,30 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
             }
         ]
     },
@@ -13622,6 +15496,37 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            }
+        ]
+    },
+    "MLH": {
+        "city": "Mulhouse",
+        "country": "France",
+        "long_lat": [
+            "7.529914",
+            "47.589583"
+        ],
+        "name": "Bale Mulhouse",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
             }
         ]
     },
@@ -13645,6 +15550,38 @@
             {
                 "airline": "Ryanair",
                 "code": "PSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -14428,6 +16365,74 @@
             {
                 "airline": "easyJet",
                 "code": "ZTH"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ARW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DOK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TGM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -14523,6 +16528,30 @@
             {
                 "airline": "easyJet",
                 "code": "VCE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
             }
         ]
     },
@@ -15406,6 +17435,34 @@
             {
                 "airline": "Ryanair",
                 "code": "FKB"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -15911,6 +17968,146 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "AGP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "AHO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ALC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BRI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CTA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CUF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DWC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GRO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MLA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NAP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PMI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VLC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VRN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "ZAZ"
             }
         ]
     },
@@ -16015,6 +18212,10 @@
             {
                 "airline": "Ryanair",
                 "code": "NRN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -16665,6 +18866,18 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -16795,6 +19008,42 @@
             {
                 "airline": "Ryanair",
                 "code": "GRO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BOJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -16874,6 +19123,38 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BRI"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NAP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
             }
         ]
     },
@@ -17140,6 +19421,10 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -17657,6 +19942,10 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
             }
         ]
     },
@@ -17716,6 +20005,38 @@
             {
                 "airline": "Ryanair",
                 "code": "RYG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -18010,6 +20331,25 @@
             },
             {
                 "airline": "easyJet",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            }
+        ]
+    },
+    "SBZ": {
+        "city": "Sibiu",
+        "country": "Romania",
+        "long_lat": [
+            "24.091342",
+            "45.785597"
+        ],
+        "name": "Sibiu",
+        "routes": [
+            {
+                "airline": "Wizz",
                 "code": "LTN"
             }
         ]
@@ -18354,6 +20694,81 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            }
+        ]
+    },
+    "SKP": {
+        "city": "Skopje",
+        "country": "Macedonia",
+        "long_lat": [
+            "21.621381",
+            "41.961622"
+        ],
+        "name": "Skopje",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CGN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FMM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GSE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HHN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MLH"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
             }
         ]
     },
@@ -18464,6 +20879,82 @@
             {
                 "airline": "easyJet",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DWC"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HHN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MLA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VLC"
             }
         ]
     },
@@ -18535,6 +21026,10 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
             }
         ]
     },
@@ -19259,6 +21754,33 @@
             }
         ]
     },
+    "SVG": {
+        "city": "Stavanger",
+        "country": "Norway",
+        "long_lat": [
+            "5.637856",
+            "58.876778"
+        ],
+        "name": "Sola",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SZZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            }
+        ]
+    },
     "SVQ": {
         "city": "Sevilla",
         "country": "Spain",
@@ -19683,6 +22205,14 @@
             {
                 "airline": "Ryanair",
                 "code": "LPL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SVG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -19785,6 +22315,10 @@
             {
                 "airline": "Ryanair",
                 "code": "CRL"
+            },
+            {
+                "airline": "Ryanair",
+                "code": "DSA"
             },
             {
                 "airline": "Ryanair",
@@ -19979,6 +22513,69 @@
             {
                 "airline": "Ryanair",
                 "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FMM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HHN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            }
+        ]
+    },
+    "TKU": {
+        "city": "Turku",
+        "country": "Finland",
+        "long_lat": [
+            "22.262808",
+            "60.514142"
+        ],
+        "name": "Turku",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "GDN"
             }
         ]
     },
@@ -20179,6 +22776,42 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
             }
         ]
     },
@@ -20391,6 +23024,21 @@
             }
         ]
     },
+    "TRD": {
+        "city": "Trondheim",
+        "country": "Norway",
+        "long_lat": [
+            "10.92425",
+            "63.457556"
+        ],
+        "name": "Vaernes",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            }
+        ]
+    },
     "TRF": {
         "city": "Sandefjord",
         "country": "Norway",
@@ -20439,6 +23087,50 @@
             {
                 "airline": "Ryanair",
                 "code": "ZAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BEG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KTW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LUZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "POZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "RIX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SZZ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VNO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WAW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "WRO"
             }
         ]
     },
@@ -20676,6 +23368,97 @@
             {
                 "airline": "Ryanair",
                 "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KIV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "PRG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SKP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
+            }
+        ]
+    },
+    "TSR": {
+        "city": "Timisoara",
+        "country": "Romania",
+        "long_lat": [
+            "21.337861",
+            "45.809861"
+        ],
+        "name": "Traian Vuia",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CIA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MAD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "VLC"
             }
         ]
     },
@@ -20707,6 +23490,21 @@
             {
                 "airline": "Ryanair",
                 "code": "MRS"
+            }
+        ]
+    },
+    "VAR": {
+        "city": "Varna",
+        "country": "Bulgaria",
+        "long_lat": [
+            "27.825106",
+            "43.232072"
+        ],
+        "name": "Varna",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "LTN"
             }
         ]
     },
@@ -20813,6 +23611,21 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            }
+        ]
+    },
+    "VKO": {
+        "city": "Moscow",
+        "country": "Russia",
+        "long_lat": [
+            "37.261486",
+            "55.591531"
+        ],
+        "name": "Vnukovo",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BUD"
             }
         ]
     },
@@ -20940,6 +23753,30 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LWO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SOF"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TSR"
             }
         ]
     },
@@ -21026,6 +23863,78 @@
             {
                 "airline": "Ryanair",
                 "code": "NRN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "AES"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CFU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "IEV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LCA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "SVG"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -21080,6 +23989,10 @@
             {
                 "airline": "Jet2",
                 "code": "LBA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -21126,6 +24039,109 @@
             {
                 "airline": "Ryanair",
                 "code": "ALC"
+            }
+        ]
+    },
+    "WAW": {
+        "city": "Warsaw",
+        "country": "Poland",
+        "long_lat": [
+            "20.967122",
+            "52.16575"
+        ],
+        "name": "Okecie",
+        "routes": [
+            {
+                "airline": "Wizz",
+                "code": "BCN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BGY"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BOJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CFU"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CRL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "FCO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GLA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GNB"
+            },
+            {
+                "airline": "Wizz",
+                "code": "GSE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HER"
+            },
+            {
+                "airline": "Wizz",
+                "code": "HRK"
+            },
+            {
+                "airline": "Wizz",
+                "code": "KUT"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LPL"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MMX"
+            },
+            {
+                "airline": "Wizz",
+                "code": "MXP"
+            },
+            {
+                "airline": "Wizz",
+                "code": "NYO"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TLV"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -21348,6 +24364,30 @@
             {
                 "airline": "Ryanair",
                 "code": "GDN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BVA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DSA"
+            },
+            {
+                "airline": "Wizz",
+                "code": "DTM"
+            },
+            {
+                "airline": "Wizz",
+                "code": "EIN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "LTN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "TRF"
             }
         ]
     },
@@ -21515,6 +24555,14 @@
             {
                 "airline": "Ryanair",
                 "code": "ACE"
+            },
+            {
+                "airline": "Wizz",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Wizz",
+                "code": "OTP"
             }
         ]
     },
@@ -21573,6 +24621,10 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Wizz",
+                "code": "BUD"
             }
         ]
     }
