@@ -155,7 +155,7 @@ RoutePlanner.prototype.destinationClick = function(d, circle) {
 
             newP.append("a")
                 .attr("href", routePlanner.getUrl(r.airline, routePlanner.origin, routePlanner.destination))
-                .attr("target", "blank")
+                .attr("target", "_blank")
                 .text(r.airline)    
 
             // add direct flight line
@@ -235,7 +235,7 @@ RoutePlanner.prototype.connectionClick = function(d, circle) {
         airline = this.routeDetails[d.key].firstLegOptions[i].airline;
         newP.append("a")
             .attr("href", this.getUrl(airline, this.origin, this.connection))
-            .attr("target", "blank")
+            .attr("target", "_blank")
             .text(airline)
     }
     for (var i=0; i<this.routeDetails[d.key].secondLegOptions.length; i++) {
@@ -243,7 +243,7 @@ RoutePlanner.prototype.connectionClick = function(d, circle) {
         var newP = d3.select("#flight-2-opts").append("p");
         newP.append("a")
             .attr("href", this.getUrl(airline, this.connection, this.destination))
-            .attr("target", "blank")
+            .attr("target", "_blank")
             .text(this.routeDetails[d.key].secondLegOptions[i].airline)
     }
 }
