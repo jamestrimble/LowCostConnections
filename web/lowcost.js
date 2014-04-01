@@ -64,7 +64,7 @@ d3.json("airports.json", function(data) {
       var projection = this.getProjection(),
           padding = 10;
 
-      var marker = layer.selectAll("svg")
+      var marker = layer.selectAll(".marker")
           .data(d3.entries(data))
           .each(transform) // update existing markers
         .enter().append("svg")
@@ -156,7 +156,23 @@ RoutePlanner.prototype.destinationClick = function(d, circle) {
             newP.append("a")
                 .attr("href", routePlanner.getUrl(r.airline, routePlanner.origin, routePlanner.destination))
                 .attr("target", "blank")
-                .text(r.airline)            
+                .text(r.airline)    
+
+            // add direct flight line
+            var o = routePlanner.data[routePlanner.origin].long_lat;
+            var d = routePlanner.data[routePlanner.destination].long_lat;
+            var directFlightCoordinates = [
+                new google.maps.LatLng(o[1], o[0]),
+                new google.maps.LatLng(d[1], d[0])
+            ];
+            var flightPath = new google.maps.Polyline({
+                path: directFlightCoordinates,
+                geodesic: true,
+                strokeColor: 'steelblue',
+                strokeOpacity: 0.7,
+                strokeWeight: 4
+            });
+            flightPath.setMap(map);
         }
 
         routePlanner.data[r.code].routes.forEach(function(r2) {
@@ -170,12 +186,27 @@ RoutePlanner.prototype.destinationClick = function(d, circle) {
                     routePlanner.routeDetails[r.code].secondLegOptions.push(r2);
                 }
                 
-
-                
                 d3.select('svg[data-code="' + r.code + '"]').style('z-index', ++zIndex);
                 d3.select('text[data-code="' + r.code + '"]').classed('show-text', true);
                 d3.select('circle[data-code="' + r.code + '"]').classed('connection', true);
                 
+                // add flight lines
+                var o = routePlanner.data[routePlanner.origin].long_lat;
+                var c = routePlanner.data[r.code].long_lat;
+                var d = routePlanner.data[routePlanner.destination].long_lat;
+                var directFlightCoordinates = [
+                    new google.maps.LatLng(o[1], o[0]),
+                    new google.maps.LatLng(c[1], c[0]),
+                    new google.maps.LatLng(d[1], d[0])
+                ];
+                var flightPath = new google.maps.Polyline({
+                    path: directFlightCoordinates,
+                    geodesic: true,
+                    strokeColor: 'steelblue',
+                    strokeOpacity: 0.6,
+                    strokeWeight: 1
+                });
+                flightPath.setMap(map);
             }
         });
     });
