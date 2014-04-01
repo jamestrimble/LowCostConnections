@@ -1,4 +1,19 @@
 {
+    "AAL": {
+        "city": "Aalborg",
+        "country": "Denmark",
+        "long_lat": [
+            "9.849164",
+            "57.092789"
+        ],
+        "name": "Aalborg",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
     "AAR": {
         "city": "Aarhus",
         "country": "Denmark",
@@ -217,6 +232,18 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -609,6 +636,98 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CPH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DME"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ACE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MUC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LYS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HAJ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HAM"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CWL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NTE"
             }
         ]
     },
@@ -1058,6 +1177,89 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CPH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LED"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DME"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SDR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CWL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            }
+        ]
+    },
+    "ALG": {
+        "city": "Algier",
+        "country": "Algeria",
+        "long_lat": [
+            "3.215408",
+            "36.691014"
+        ],
+        "name": "Houari Boumediene",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -1168,6 +1370,46 @@
             {
                 "airline": "Jet2",
                 "code": "LBA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -1218,6 +1460,10 @@
             {
                 "airline": "easyJet",
                 "code": "GVA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -1311,6 +1557,18 @@
             },
             {
                 "airline": "easyJet",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
                 "code": "FCO"
             }
         ]
@@ -1626,6 +1884,510 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CPH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DKR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LIL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DRS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BGO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HEL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NAP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LIS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BOD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PRG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NDR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LYS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "RAK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SPK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SPC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HAJ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HAM"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MRS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HRK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VIE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ZAG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "RHO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DBV"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CMN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BJL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DME"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DTM"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BEG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FUE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BES"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JMK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OSL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BUD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VGO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TRN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "KZN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "GRX"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JTR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "XRY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PSA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MXP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LCG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "RNS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DOK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ACE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LUX"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ATH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SPU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CTA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MUC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OLB"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SEL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FRA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TLV"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HER"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IEV"
+            },
+            {
+                "airline": "Vueling",
+                "code": "KRK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DUS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FEZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TLL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NUE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LED"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "KEF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LEJ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "EDI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VRN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BEY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TUN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NTE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AAL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LON"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MSQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CAG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TXL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CLJ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SOF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ARN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "EAS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MLA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "GVA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "GOA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LEI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TNG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CWL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "STR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "GOT"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ZRH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "KGS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SDR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "KGD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PNA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFS"
             }
         ]
     },
@@ -1705,6 +2467,10 @@
             {
                 "airline": "easyJet",
                 "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -1776,6 +2542,10 @@
             {
                 "airline": "Wizz",
                 "code": "TRF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -1799,6 +2569,25 @@
             {
                 "airline": "easyJet",
                 "code": "LYS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
+    "BEY": {
+        "city": "Beirut",
+        "country": "Lebanon",
+        "long_lat": [
+            "35.488389",
+            "33.820931"
+        ],
+        "name": "Rafic Hariri Intl",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -1993,6 +2782,10 @@
             {
                 "airline": "Wizz",
                 "code": "VNO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -2534,6 +3327,14 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -2561,6 +3362,98 @@
             {
                 "airline": "easyJet",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ACE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LON"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ATH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FUE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TXL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JTR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LHR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MXP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LCG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
             }
         ]
     },
@@ -2600,6 +3493,21 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            }
+        ]
+    },
+    "BJL": {
+        "city": "Banjul",
+        "country": "Gambia",
+        "long_lat": [
+            "-16.652206",
+            "13.337961"
+        ],
+        "name": "Banjul Intl",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -2968,6 +3876,18 @@
             {
                 "airline": "Wizz",
                 "code": "TSR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
             }
         ]
     },
@@ -3079,6 +3999,14 @@
             {
                 "airline": "easyJet",
                 "code": "NCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
             }
         ]
     },
@@ -3431,6 +4359,18 @@
             {
                 "airline": "Wizz",
                 "code": "PRG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -3860,6 +4800,50 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LIS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -4417,6 +5401,10 @@
             {
                 "airline": "Wizz",
                 "code": "ZTH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -4904,6 +5892,14 @@
             {
                 "airline": "easyJet",
                 "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
             }
         ]
     },
@@ -5142,6 +6138,22 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
             }
         ]
     },
@@ -5304,6 +6316,10 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -5840,6 +6856,10 @@
             {
                 "airline": "Wizz",
                 "code": "ZAZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -5894,6 +6914,18 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
             }
         ]
     },
@@ -5957,6 +6989,22 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -6454,6 +7502,18 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -6481,6 +7541,33 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            }
+        ]
+    },
+    "CWL": {
+        "city": "Cardiff",
+        "country": "United Kingdom",
+        "long_lat": [
+            "-3.343333",
+            "51.396667"
+        ],
+        "name": "Cardiff",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -6552,6 +7639,14 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -6571,6 +7666,21 @@
             {
                 "airline": "Wizz",
                 "code": "LTN"
+            }
+        ]
+    },
+    "DKR": {
+        "city": "Dakar",
+        "country": "Senegal",
+        "long_lat": [
+            "-17.490225",
+            "14.739708"
+        ],
+        "name": "Leopold Sedar Senghor Intl",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -6668,6 +7778,22 @@
             {
                 "airline": "easyJet",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -6738,6 +7864,10 @@
             {
                 "airline": "Wizz",
                 "code": "MXP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -6753,6 +7883,10 @@
             {
                 "airline": "easyJet",
                 "code": "BSL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -6919,6 +8053,10 @@
             {
                 "airline": "Wizz",
                 "code": "WRO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -7301,6 +8439,10 @@
             {
                 "airline": "Jet2",
                 "code": "LBA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -7328,6 +8470,21 @@
             {
                 "airline": "Wizz",
                 "code": "SOF"
+            }
+        ]
+    },
+    "EAS": {
+        "city": "San Sebastian",
+        "country": "Spain",
+        "long_lat": [
+            "-1.790611",
+            "43.356519"
+        ],
+        "name": "San Sebastian",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -7694,6 +8851,10 @@
             {
                 "airline": "Jet2",
                 "code": "VRN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -8770,6 +9931,158 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SUF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ZTH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ATH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CTA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MUC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PRG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TXL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SPU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JMK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SEL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MLA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "HER"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TRN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "GOA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JTR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BDS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ZAG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "RHO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CFU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NTE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DBV"
             }
         ]
     },
@@ -8849,6 +10162,10 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -8924,6 +10241,85 @@
             {
                 "airline": "Ryanair",
                 "code": "NYO"
+            }
+        ]
+    },
+    "FLR": {
+        "city": "Florence",
+        "country": "Italy",
+        "long_lat": [
+            "11.2051",
+            "43.809953"
+        ],
+        "name": "Firenze",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "CPH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SEL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LON"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JTR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "JMK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SPK"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CAG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TXL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CTA"
             }
         ]
     },
@@ -9111,6 +10507,21 @@
             }
         ]
     },
+    "FRA": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "long_lat": [
+            "8.543125",
+            "50.026421"
+        ],
+        "name": "Frankfurt Main",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
     "FSC": {
         "city": "Figari",
         "country": "France",
@@ -9266,6 +10677,14 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -9729,6 +11148,29 @@
             {
                 "airline": "Ryanair",
                 "code": "TPS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            }
+        ]
+    },
+    "GOT": {
+        "city": "Gothenborg",
+        "country": "Sweden",
+        "long_lat": [
+            "12.279819",
+            "57.662836"
+        ],
+        "name": "Landvetter",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -9993,6 +11435,25 @@
             },
             {
                 "airline": "Ryanair",
+                "code": "PMI"
+            }
+        ]
+    },
+    "GRX": {
+        "city": "Granada",
+        "country": "Spain",
+        "long_lat": [
+            "-3.777356",
+            "37.188731"
+        ],
+        "name": "Granada",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
                 "code": "PMI"
             }
         ]
@@ -10368,6 +11829,10 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -10383,6 +11848,25 @@
             {
                 "airline": "Wizz",
                 "code": "BUD"
+            }
+        ]
+    },
+    "HAJ": {
+        "city": "Hannover",
+        "country": "Germany",
+        "long_lat": [
+            "9.685078",
+            "52.461056"
+        ],
+        "name": "Hannover",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -10462,6 +11946,14 @@
             {
                 "airline": "easyJet",
                 "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -10520,6 +12012,10 @@
             {
                 "airline": "Wizz",
                 "code": "GDN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -10599,6 +12095,14 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -10868,6 +12372,10 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -11099,6 +12607,82 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MUC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MXP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ZRH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LIS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -11182,6 +12766,10 @@
             {
                 "airline": "Wizz",
                 "code": "VNO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -11345,6 +12933,18 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -11371,6 +12971,22 @@
             },
             {
                 "airline": "easyJet",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
                 "code": "FCO"
             }
         ]
@@ -11403,6 +13019,25 @@
             {
                 "airline": "easyJet",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
+    "KGD": {
+        "city": "Kaliningrad",
+        "country": "Russia",
+        "long_lat": [
+            "20.592633",
+            "54.89005"
+        ],
+        "name": "Khrabrovo",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -11494,6 +13129,10 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -11746,6 +13385,10 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -12041,6 +13684,21 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            }
+        ]
+    },
+    "KZN": {
+        "city": "Kazan",
+        "country": "Russia",
+        "long_lat": [
+            "49.278728",
+            "55.606186"
+        ],
+        "name": "Kazan",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -12453,6 +14111,45 @@
             }
         ]
     },
+    "LCG": {
+        "city": "La Coruna",
+        "country": "Spain",
+        "long_lat": [
+            "-8.377256",
+            "43.302061"
+        ],
+        "name": "A Coruna",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LON"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LHR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            }
+        ]
+    },
     "LCJ": {
         "city": "Lodz",
         "country": "Poland",
@@ -12566,6 +14263,25 @@
             }
         ]
     },
+    "LED": {
+        "city": "St. Petersburg",
+        "country": "Russia",
+        "long_lat": [
+            "30.262503",
+            "59.800292"
+        ],
+        "name": "Pulkovo",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            }
+        ]
+    },
     "LEI": {
         "city": "Almeria",
         "country": "Spain",
@@ -12598,6 +14314,10 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -12613,6 +14333,10 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -13080,6 +14804,33 @@
             {
                 "airline": "easyJet",
                 "code": "ZRH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            }
+        ]
+    },
+    "LHR": {
+        "city": "London",
+        "country": "United Kingdom",
+        "long_lat": [
+            "-0.461389",
+            "51.4775"
+        ],
+        "name": "Heathrow",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LCG"
             }
         ]
     },
@@ -13154,6 +14905,10 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -13316,6 +15071,26 @@
             {
                 "airline": "easyJet",
                 "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
             }
         ]
     },
@@ -13358,6 +15133,33 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            }
+        ]
+    },
+    "LON": {
+        "city": "London",
+        "country": "United Kingdom",
+        "long_lat": [
+            "-0.127778",
+            "51.508056"
+        ],
+        "name": "All Airports",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "LCG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
             }
         ]
     },
@@ -13521,6 +15323,38 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LCG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -14256,6 +16090,10 @@
             {
                 "airline": "easyJet",
                 "code": "MXP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -14473,6 +16311,22 @@
             {
                 "airline": "easyJet",
                 "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -14688,6 +16542,42 @@
             {
                 "airline": "Wizz",
                 "code": "TSR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MLA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -14779,6 +16669,38 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -15508,6 +17430,18 @@
             {
                 "airline": "Wizz",
                 "code": "SOF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -15788,6 +17722,29 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            }
+        ]
+    },
+    "MSQ": {
+        "city": "Minsk 2",
+        "country": "Belarus",
+        "long_lat": [
+            "28.030731",
+            "53.882469"
+        ],
+        "name": "Minsk 2",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -15870,6 +17827,30 @@
             {
                 "airline": "easyJet",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -16433,6 +18414,18 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
             }
         ]
     },
@@ -16552,6 +18545,10 @@
             {
                 "airline": "Wizz",
                 "code": "PRG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -16691,6 +18688,10 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -16913,6 +18914,10 @@
             {
                 "airline": "Ryanair",
                 "code": "MRS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -17265,6 +19270,22 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -17292,6 +19313,10 @@
             {
                 "airline": "Ryanair",
                 "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -17518,6 +19543,10 @@
             {
                 "airline": "Jet2",
                 "code": "LBA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -17721,6 +19750,26 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -17831,6 +19880,25 @@
             }
         ]
     },
+    "ORN": {
+        "city": "Oran",
+        "country": "Algeria",
+        "long_lat": [
+            "-0.621183",
+            "35.623858"
+        ],
+        "name": "Es Senia",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            }
+        ]
+    },
     "ORY": {
         "city": "Paris",
         "country": "France",
@@ -17915,6 +19983,74 @@
             {
                 "airline": "easyJet",
                 "code": "VCE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CMN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LIS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -17930,6 +20066,21 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            }
+        ]
+    },
+    "OSL": {
+        "city": "Oslo",
+        "country": "Norway",
+        "long_lat": [
+            "11.100361",
+            "60.193917"
+        ],
+        "name": "Gardermoen",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -18108,6 +20259,18 @@
             {
                 "airline": "Wizz",
                 "code": "ZAZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
             }
         ]
     },
@@ -18158,6 +20321,133 @@
             {
                 "airline": "easyJet",
                 "code": "STN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
+            }
+        ]
+    },
+    "PAR": {
+        "city": "Paris",
+        "country": "France",
+        "long_lat": [
+            "2.352222",
+            "48.856389"
+        ],
+        "name": "All Airports",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "CMN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BLQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LIS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -18878,6 +21168,86 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "DME"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LYS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "GRX"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MRS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MUC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CWL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "RNS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BOD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -18961,6 +21331,33 @@
             {
                 "airline": "easyJet",
                 "code": "FCO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            }
+        ]
+    },
+    "PNA": {
+        "city": "Pamplona",
+        "country": "Spain",
+        "long_lat": [
+            "-1.646331",
+            "42.770039"
+        ],
+        "name": "Pamplona",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -19155,6 +21552,14 @@
             {
                 "airline": "Wizz",
                 "code": "TSF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -19425,6 +21830,10 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -19674,6 +22083,10 @@
             {
                 "airline": "easyJet",
                 "code": "TLS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -19946,6 +22359,14 @@
             {
                 "airline": "Wizz",
                 "code": "BUD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -20079,6 +22500,14 @@
             {
                 "airline": "Ryanair",
                 "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
             }
         ]
     },
@@ -20430,6 +22859,38 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ZRH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -20509,6 +22970,37 @@
             {
                 "airline": "Ryanair",
                 "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            }
+        ]
+    },
+    "SEL": {
+        "city": "Seoul",
+        "country": "South Korea",
+        "long_lat": [
+            "126.790586",
+            "37.558311"
+        ],
+        "name": "Gimpo International Airpot",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -20955,6 +23447,44 @@
             {
                 "airline": "Wizz",
                 "code": "VLC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
+    "SPC": {
+        "city": "Santa Cruz De La Palma",
+        "country": "Spain",
+        "long_lat": [
+            "-17.755611",
+            "28.626478"
+        ],
+        "name": "La Palma",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
+    "SPK": {
+        "city": "Chitose",
+        "country": "Japan",
+        "long_lat": [
+            "141.666447",
+            "42.794475"
+        ],
+        "name": "Chitose",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
             }
         ]
     },
@@ -21030,6 +23560,14 @@
             {
                 "airline": "Wizz",
                 "code": "LTN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -21695,6 +24233,21 @@
             }
         ]
     },
+    "STR": {
+        "city": "Stuttgart",
+        "country": "Germany",
+        "long_lat": [
+            "9.221964",
+            "48.689878"
+        ],
+        "name": "Stuttgart",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
     "SUF": {
         "city": "Lamezia",
         "country": "Italy",
@@ -21751,6 +24304,10 @@
             {
                 "airline": "easyJet",
                 "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -21778,6 +24335,10 @@
             {
                 "airline": "Wizz",
                 "code": "VNO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -21893,6 +24454,74 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "TFN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LYS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LCG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MUC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "MAH"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OPO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "NTE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LPA"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -22232,6 +24861,34 @@
             {
                 "airline": "Ryanair",
                 "code": "MAD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "OVD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ALC"
+            },
+            {
+                "airline": "Vueling",
+                "code": "LCG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SVQ"
             }
         ]
     },
@@ -22479,6 +25136,10 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -22627,6 +25288,10 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -22733,6 +25398,22 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PMI"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AGP"
             }
         ]
     },
@@ -22812,6 +25493,10 @@
             {
                 "airline": "Wizz",
                 "code": "WAW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -22894,6 +25579,10 @@
             {
                 "airline": "easyJet",
                 "code": "CDG"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -23194,6 +25883,14 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -23493,6 +26190,48 @@
             }
         ]
     },
+    "TUN": {
+        "city": "Tunis",
+        "country": "Tunisia",
+        "long_lat": [
+            "10.227217",
+            "36.851033"
+        ],
+        "name": "Carthage",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            }
+        ]
+    },
+    "TXL": {
+        "city": "Berlin",
+        "country": "Germany",
+        "long_lat": [
+            "13.287711",
+            "52.559686"
+        ],
+        "name": "Tegel",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FLR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
+            }
+        ]
+    },
     "VAR": {
         "city": "Varna",
         "country": "Bulgaria",
@@ -23592,6 +26331,33 @@
             {
                 "airline": "Jet2",
                 "code": "NCL"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BIO"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            }
+        ]
+    },
+    "VGO": {
+        "city": "Vigo",
+        "country": "Spain",
+        "long_lat": [
+            "-8.626775",
+            "42.2318"
+        ],
+        "name": "Vigo",
+        "routes": [
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -23611,6 +26377,10 @@
             {
                 "airline": "Jet2",
                 "code": "MAN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -23777,6 +26547,30 @@
             {
                 "airline": "Wizz",
                 "code": "TSR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "PAR"
+            },
+            {
+                "airline": "Vueling",
+                "code": "ORY"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BRU"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "AMS"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -23796,6 +26590,10 @@
             {
                 "airline": "Ryanair",
                 "code": "ACE"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -23993,6 +26791,10 @@
             {
                 "airline": "Wizz",
                 "code": "OTP"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -24142,6 +26944,10 @@
             {
                 "airline": "Wizz",
                 "code": "TRF"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -24434,6 +27240,10 @@
             {
                 "airline": "Ryanair",
                 "code": "STN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
             }
         ]
     },
@@ -24520,6 +27330,14 @@
             {
                 "airline": "easyJet",
                 "code": "LGW"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     },
@@ -24582,6 +27400,18 @@
             {
                 "airline": "easyJet",
                 "code": "LTN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "BCN"
+            },
+            {
+                "airline": "Vueling",
+                "code": "SCQ"
+            },
+            {
+                "airline": "Vueling",
+                "code": "IBZ"
             }
         ]
     },
@@ -24625,6 +27455,10 @@
             {
                 "airline": "Wizz",
                 "code": "BUD"
+            },
+            {
+                "airline": "Vueling",
+                "code": "FCO"
             }
         ]
     }

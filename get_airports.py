@@ -64,6 +64,20 @@ with open("temp/wizz.json") as f:
         for destination in airport_data["ASL"]:
             add_route(origin_code, destination["SC"], "Wizz")
     
+with open("temp/vueling.json") as f:
+    vueling = json.load(f)
+    mkt_info = vueling["marketInfo"]["MarketList"]
+    c_mkt_info = vueling["connectionMarketInfo"]["MarketList"]
+    for origin_code, airport_data in mkt_info.items():
+        all_destinations = [d["code"] for d in mkt_info[origin_code]]
+        if c_mkt_info.has_key(origin_code):
+            connecting_dests = [d["code"] for d in c_mkt_info[origin_code]]
+        else:
+            connecting_dests = []
+        direct_dests = list(set(all_destinations) - set(connecting_dests))
+        for destination in direct_dests:
+            add_route(origin_code, destination, "Vueling")
+    
         
 airports_with_flights = {a:airports[a] for a in airports if airports[a].has_key("routes")}
 

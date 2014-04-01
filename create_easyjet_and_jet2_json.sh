@@ -18,3 +18,9 @@ node temp/jet2_to_json.js
 grep 'wizzAutocomplete.MARKETINFO' downloads/wizz.html > temp/wizz.json
 sed -i "" "s/^.*wizzAutocomplete.MARKETINFO.=..\([^']*\).*$/\1/g" temp/wizz.json
 
+echo { > temp/vueling.json
+grep '"marketInfo"' downloads/vueling.html >> temp/vueling.json
+% The next line removes trailing comman
+grep '"connectionMarketInfo"' downloads/vueling.html | rev | cut -c 3- | rev >> temp/vueling.json
+echo } >> temp/vueling.json
+

@@ -3,6 +3,10 @@ curl -o downloads/easyjet.js http://www.easyjet.com/EN/linkedAirportsJSON?201003
 
 curl -o downloads/wizz.html http://wizzair.com/en-GB/Search
 
+curl -o downloads/vueling.html http://www.vueling.com/en
+
+
+
 # Also save this: https://sourceforge.net/p/openflights/code/HEAD/tree/openflights/data/airports.dat?format=raw
 
 # And http://reservations.jet2.com/jet2.Reservations.web.portal/StandardSearchPageSmall.aspx?LANG=EN 
